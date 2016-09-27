@@ -1,0 +1,8 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": ["/usr/include"]
+        }
+    ]
+}
