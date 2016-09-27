@@ -1,1 +1,1 @@
-Always want to learn C language and here are my examples on this language.
+Always wanted to learn C language and here are my examples on this language.
