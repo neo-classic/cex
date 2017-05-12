@@ -1,0 +1,13 @@
+data=[
+{lat: 30.685163, lng: -68.137207, info: 'Type=Yeti',
+{lat: 28.304380, lng: -74.575195, info: 'Type=UFO',
+{lat: 29.132971, lng: -71.136475, info: 'Type=Ship',
+{lat: 28.343065, lng: -62.753906, info: 'Type=Elvis',
+{lat: 27.868217, lng: -68.005371, info: 'Type=Goatsucker',
+{lat: 30.496017, lng: -73.333740, info: 'Type=Disappearance',
+{lat: 26.224447, lng: -71.477051, info: 'Type=UFO',
+{lat: 29.401320, lng: -66.027832, info: 'Type=Ship',
+{lat: 37.879536, lng: -69.477539, info: 'Type=Elvis',
+{lat: 22.705256, lng: -68.192139, info: 'Type=Elvis',
+{lat: 27.166695, lng: -87.484131, info: 'Type=Elvis'
+]

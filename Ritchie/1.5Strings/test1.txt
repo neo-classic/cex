@@ -1,0 +1,16 @@
+a
+ab
+abc
+ab
+a
+
+
+a
+ab
+abc
+abcd
+abcde
+abcd
+abc
+ab
+a
