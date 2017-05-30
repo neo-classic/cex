@@ -34,7 +34,7 @@ int main(int argc, char *argv[]) {
     int care_perc = bugs * nul_byte;
     printf("Which means you should care %d%%\n", care_perc);
 
-    printf("Null byte is %s\n", nul_byte);
+    printf("Null byte is %i\n", nul_byte);
 
     return 0;
 }
