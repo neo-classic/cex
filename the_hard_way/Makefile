@@ -1,4 +1,4 @@
-CFLAGS=-Wall -g
+CFLAGS=-Wall -g -std=c11
 CC=gcc
 
 ex1: ex1.c
